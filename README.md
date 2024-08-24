@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amith Shetty</h1>
-<h3 align="center">A Software Developer exploring better ways to build software</h3>
+<h3 align="center">A Software Engineer exploring better ways to build software</h3>
 
 - 📫 How to reach me **amithshettya@gmail.com**
 

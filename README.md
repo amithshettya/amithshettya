@@ -23,5 +23,6 @@
 ---
 
 <p align="center">
-  <i>Fermions are introverts, bosons are extroverts and the universe is built on their friendship.</i>
+  <i>Fermions are introverts, bosons are extroverts.<br/>
+  Everything you see is the reflection of their friendship.</i>
 </p>

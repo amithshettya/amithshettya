@@ -24,5 +24,5 @@
 
 <p align="center">
   <i>Fermions are introverts, bosons are extroverts.<br/>
-  Everything you see is the reflection of their relationship</i>
+  Everything you see is a reflection of their relationship.</i>
 </p>
